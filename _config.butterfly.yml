@@ -83,7 +83,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: /img/my.jpg
+  img: https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/my.jpg
   effect: false
 
 # Disable all banner image
@@ -188,10 +188,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-     - img: /img/wechat.jpg
+     - img: https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/wechat.jpg
        link:
        text: wechat
-     - img: /img/alipay.jpg
+     - img: https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/alipay.jpg
        link:
        text: alipay
 
