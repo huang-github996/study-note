@@ -5,10 +5,9 @@ tags:
   - typroa + picgo
   - 'github '
   - hexo
-  - ''
 categories:
   - blog
-date: 2020-12-07 09:26:00
+date: 2020-10-07 09:26:00
 ---
 感觉需要一点东西记录生活，做自己喜欢做的事。
 ## 解决方案，hexo + vercel + github + typroa + picgo
@@ -17,25 +16,25 @@ date: 2020-12-07 09:26:00
 
 登录github->creat repository
 
-![image-20210306203608321](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306203608321.png)
+![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306203608321.png)
 
 接下来创建tkoen，记住一定要保存好，因为在打开就看不到了。
 
 点开头像边的小三角，进入settings -> Developer settings
 
-![image-20210306204358585](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306204358585.png)
+![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306204358585.png)
 
 点击左边的personal access tokens
 
-![image-20210306204458926](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306204458926.png)
+![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306204458926.png)
 
 点击generate new token
 
-![image-20210306204717676](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306204717676.png)
+![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306204717676.png)
 
-将选项全部勾选，生成令牌，记得保存![image-20210306205053298](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306205053298.png)
+将选项全部勾选，生成令牌，记得保存![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306205053298.png)
 
-![image-20210306205357869](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306205357869.png)
+![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306205357869.png)
 
 ## 在vercel上部署文件
 
@@ -43,21 +42,21 @@ date: 2020-12-07 09:26:00
 
 2. 使用github账号登录vercel
 
-![imag](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306201019455.png)
+![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306201019455.png)
 
 然后new project-> clone templates,选择hexo
 
-![image-20210307072423530](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307072423530.png)
+![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307072423530.png)
 
 自动创建仓库
 
-![image-20210307072556803](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307072556803.png)
+![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307072556803.png)
 
 ![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307072748488.png)
 
 部署完成之后点击visit便可查看初始页面
 
-![image-20210307072905672](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307072905672.png)
+![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307072905672.png)
 
 ##  配置及安装hexo
 
@@ -73,13 +72,13 @@ date: 2020-12-07 09:26:00
 
    然后输入hexo -v 查看hexo版本，有下列信息显示即为安装成功。
 
-   ![image-20210307003954069](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307003954069.png)
+   ![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307003954069.png)
 
    ### 配置hexo
 
    1. 将项目仓库通过github-desktop 拉取至本地进行配置
 
-   ![image-20210307073826136](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307073826136.png)
+   ![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307073826136.png)
 
    可以看到有三个文件夹，分别是模板文件夹， 源文件夹，主题文件夹。以及一些项目配置文件
 
@@ -98,11 +97,11 @@ date: 2020-12-07 09:26:00
 
       
 
-   ![image-20210307074518304](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307074518304.png)
+   ![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307074518304.png)
 
    通过访问，发现拉取完成，且可以访问。
 
-   ![image-20210307074838340](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307074838340.png)
+   ![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307074838340.png)
 
    ### 安装hexo-admin和写作
 
@@ -117,7 +116,7 @@ date: 2020-12-07 09:26:00
    
    ```
 
-   ![image-20210307081856521](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307081856521.png)
+   ![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307081856521.png)
 
    2. 在setting中设置密码
 
@@ -177,14 +176,14 @@ date: 2020-12-07 09:26:00
 
    分支名自从2020年10月后新建的仓库分支名都是main
 
-   ![image-20210306211347651](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306211347651.png)
+   ![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306211347651.png)
 
 3. 设置快捷键以及默认图床
 
-   ![image-20210306212919807](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306212919807.png)
+   ![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306212919807.png)
 
 4. 在typeoa中
 
 只用在中文环境中才可以设置picgo app上传，设置好之后，点击验证图片上传测试，以保证设置正确。
 
-![image-20210306224803136](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306224803136.png)
+![](https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210306224803136.png)
