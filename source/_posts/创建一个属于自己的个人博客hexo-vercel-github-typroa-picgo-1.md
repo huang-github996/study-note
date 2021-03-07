@@ -147,7 +147,13 @@ date: 2020-12-07 09:26:00
         deployCommand: './hexo-deploy.sh'
       ```
 
-      
+  
+
+## 配置主题
+
+[hexo主题](https://hexo.io/themes/)
+
+推荐两个主题，[ocean](https://zhwangart.com/2018/11/30/Ocean/)、[buttferfly](https://butterfly.js.org/posts/21cfbf15/#%E5%8D%87%E7%B4%9A%E5%BB%BA%E8%AD%B0)    
 
       
 
