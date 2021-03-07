@@ -83,7 +83,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: /source/_pic/my.jpg
+  img: /img/my.jpg
   effect: false
 
 # Disable all banner image
@@ -188,10 +188,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-     - img: /source/_pic/wechat.jpg
+     - img: /img/wechat.jpg
        link:
        text: wechat
-     - img: ../../source/_pic/alipay.jpg
+     - img: /img/alipay.jpg
        link:
        text: alipay
 
