@@ -79,3 +79,10 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+# hexo-admin authentification
+admin:
+  deployCommand: './hexo-deploy.sh'
+  username: hhlkindle666
+  password_hash: $2a$10$OOg8JPiANFmiIjsD3Ag9Neijbg7jZLQvPia8DGg1HpmlzDYUFiiPG
+  secret: handsomeboyhhl996
