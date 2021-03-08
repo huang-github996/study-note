@@ -165,7 +165,7 @@ wordcount:
 # 2: both (if the description exists, it will show description, or show the auto_excerpt)
 # 3: auto_excerpt (default)
 # false: do not show the article introduction
-index_post_content:
+index_post_content: 
   method: 3
   length: 500 # if you set method to 2 or 3, the length need to config
 
