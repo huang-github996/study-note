@@ -1,7 +1,7 @@
 title: 树莓派+二自由度云台制作智能小车（总）——准备及说明
 tags: []
 categories: []
-date: 2021-03-07 09:48:00
+date: 2020-03-07 09:48:00
 ---
 小车实现思路
 :  （一）主要是一些环境的搭建以及基本知识
@@ -11,7 +11,6 @@ date: 2021-03-07 09:48:00
 :  （五）将操纵功能集成到网页上（也可以做一个简单的app在手机上进行操作）
 :  （附）人脸识别、目标追踪，语音识别控制值小车、通过卷积神经网络实现自动避障等功能；（可自行发挥，本文暂无涉及）
 
-@[TOC](开发环境搭建)
 ## 树莓派
 |主要器件     | INFO     
 |------ | ----- | ------- |
@@ -72,8 +71,8 @@ sudo dpkg -i wiringpi-latest.deb
 也可以，看这个
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200424223829973.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5MDQ3NDYx,size_16,color_FFFFFF,t_70#pic_center)
 # ==传送门==
-（一）[树莓派+二自由度云台制作智能小车（一）——搭建环境](https://blog.csdn.net/qq_39047461/article/details/105637960)
-（二）[树莓派+二自由度云台制作智能小车（二）——测试传感器](https://blog.csdn.net/qq_39047461/article/details/105740926)
-（三）[树莓派+二自由度云台制作智能小车（三）——小车运动+简单的自动避障](https://blog.csdn.net/qq_39047461/article/details/105780479)
-（四）[树莓派+二自由度云台制作智能小车（四）——二自由度云台](https://blog.csdn.net/qq_39047461/article/details/105794084)
-（五）[树莓派+二自由度云台制作智能小车（五）——服务器+网页](https://blog.csdn.net/qq_39047461/article/details/106436713)
+（一）[树莓派+二自由度云台制作智能小车（一）——搭建环境](https://dogh.top/2020/03/08/%E6%A0%91%E8%8E%93%E6%B4%BE-%E4%BA%8C%E8%87%AA%E7%94%B1%E5%BA%A6%E4%BA%91%E5%8F%B0%E5%B0%8F%E8%BD%A6%EF%BC%88%E4%B8%80%EF%BC%89-%E6%90%AD%E5%BB%BA%E7%8E%AF%E5%A2%83/)
+（二）[树莓派+二自由度云台制作智能小车（二）——测试传感器](https://dogh.top/2020/03/08/%E6%A0%91%E8%8E%93%E6%B4%BE-%E4%BA%8C%E8%87%AA%E7%94%B1%E5%BA%A6%E4%BA%91%E5%8F%B0%E5%B0%8F%E8%BD%A6%EF%BC%88%E4%BA%8C%EF%BC%89-%E6%B5%8B%E8%AF%95%E4%BC%A0%E6%84%9F%E5%99%A8/)
+（三）[树莓派+二自由度云台制作智能小车（三）——小车运动+简单的自动避障](https://dogh.top/2020/03/08/%E6%A0%91%E8%8E%93%E6%B4%BE-%E4%BA%8C%E8%87%AA%E7%94%B1%E5%BA%A6%E4%BA%91%E5%8F%B0%E5%B0%8F%E8%BD%A6%EF%BC%88%E4%B8%89%EF%BC%89-%E5%B0%8F%E8%BD%A6%E8%BF%90%E5%8A%A8-%E7%AE%80%E5%8D%95%E7%9A%84%E8%87%AA%E5%8A%A8%E9%81%BF%E9%9A%9C/)
+（四）[树莓派+二自由度云台制作智能小车（四）——二自由度云台](https://dogh.top/2020/03/08/%E6%A0%91%E8%8E%93%E6%B4%BE-%E4%BA%8C%E8%87%AA%E7%94%B1%E5%BA%A6%E4%BA%91%E5%8F%B0%E5%B0%8F%E8%BD%A6%EF%BC%88%E5%9B%9B%EF%BC%89-%E4%BA%8C%E8%87%AA%E7%94%B1%E5%BA%A6%E4%BA%91%E5%8F%B0/)
+（五）[树莓派+二自由度云台制作智能小车（五）——服务器+网页](https://dogh.top/2020/03/08/%E6%A0%91%E8%8E%93%E6%B4%BE-%E4%BA%8C%E8%87%AA%E7%94%B1%E5%BA%A6%E4%BA%91%E5%8F%B0%E6%99%BA%E8%83%BD%E5%B0%8F%E8%BD%A6%EF%BC%88%E4%BA%94%EF%BC%89-%E6%9C%8D%E5%8A%A1%E5%99%A8-%E7%BD%91%E9%A1%B5%E6%8E%A7%E5%88%B6/)
