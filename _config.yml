@@ -86,6 +86,14 @@ search:
   field: post
   content: true
 
+# markdown
+markdown:
+plugins:
+- plugin:
+  name: '@neilsustc/markdown-it-katex'
+  options:
+    strict: false
+
 # hexo-admin authentification
 admin:
   deployCommand: './hexo-deploy.sh'

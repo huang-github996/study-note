@@ -5,7 +5,7 @@ tags:
   - linux
 categories:
   - 杂项目录
-date: 2021-03-08 22:48:00
+date: 2021-01-02 22:48:00
 ---
 # github访问加速及tldr的安装
 tldr项目在github上，首先在本地做一个访问加速，避免安装tldr时漫长的等待时间。
