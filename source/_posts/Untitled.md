@@ -1,4 +1,4 @@
-title: Untitled树莓派+二自由度云台制作智能小车（一）——搭建环境
+title: 树莓派+二自由度云台制作智能小车（一）——搭建环境
 author: dogh
 tags:
   - raspberry
