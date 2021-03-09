@@ -14,20 +14,7 @@ date: 2021-01-28 22:55:00
 [leetcode-5](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 
 该题使用马拉车算法解时间复杂度和空间复杂度均为$O(n)$
-{% mermaid %}
-pie
-    title Key elements in Product X
-    "Calcium" : 42.96
-    "Potassium" : 50.05
-    "Magnesium" : 10.01
-    "Iron" :  5
-{% endmermaid %}
 
-
-作者: Jerry
-連結: https://butterfly.js.org/posts/4aa8abbe/#mermaid
-來源: Butterfly
-著作權歸作者所有。商業轉載請聯絡作者獲得授權，非商業轉載請註明出處。
 
 ## manacher思想介绍：
 一、(center)	$C$ *为回文串对称中心坐标*

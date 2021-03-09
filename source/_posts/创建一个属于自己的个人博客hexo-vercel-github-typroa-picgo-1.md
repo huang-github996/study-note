@@ -181,6 +181,17 @@ date: 2020-10-07 09:26:00
 3. 设置快捷键以及默认图床
 
    ![](https://hhl-pic.oss-cn-hangzhou.aliyuncs.com/myblog-pic/image-20210306212919807.png)
+设置指定存储路径，然后在设置自定义域名，进行图片访问加速，
+
+```
+https://cdn.jsdelivr.net/gh/{user}/{repo}/
+user是github用户名。repo是存图片的仓库名
+例如原本生成的链接为
+https://raw.githubusercontent.com/huang-github996/picture-blog/main/blog/image-20210307004820712.png
+设置自定义域名后，
+https://cdn.jsdelivr.net/gh/huang-github996/picture-blog/blog/image-20210307004820712.png
+```
+
 
 4. 在typeoa中
 

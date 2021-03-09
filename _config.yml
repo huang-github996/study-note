@@ -97,6 +97,6 @@ admin:
 markdown:
   plugins:
   - plugin:
-    name: 'node_modules/@neilsustc/markdown-it-katex'
+    name: '@neilsustc/markdown-it-katex'
     options:
       strict: false
