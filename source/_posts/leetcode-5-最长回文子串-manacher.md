@@ -1,10 +1,9 @@
 title: leetcode-5.最长回文子串-manacher
-author: dogh
+author: '[dogh](huanghaolin96@foxmail.com)'
 tags:
   - manacher
   - string
   - algorithm
-  - ''
 categories:
   - leetcode
   - algorithm
