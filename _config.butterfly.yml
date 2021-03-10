@@ -799,17 +799,18 @@ artitalk:
 # It may contain bugs and unstable, give feedback when you find the bugs.
 # https://github.com/MoOx/pjax
 pjax:
-  enable: false
+  enable: true
   exclude:
     # - xxxx
     # - xxxx
 
 # Inject the css and script (aplayer/meting)
 aplayerInject:
-  enable: false
+  enable: true
   per_page: true
 
 # Snackbar (Toast Notification 彈窗)
+# https://github.com/polonel/SnackBar
 # https://github.com/polonel/SnackBar
 # position 彈窗位置
 # 可選 top-left / top-center / top-right / bottom-left / bottom-center / bottom-right
@@ -860,6 +861,9 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
   bottom:
+    <script src="//lib.baomitu.com/jquery/3.4.1/jquery.min.js"></script>
+    <div id="music" key="60481bf5d8c60" api="https://player.ataoxz.com"></div><script id="xplayer" src="https://player.ataoxz.com/api/PlayerJs/id/60481bf5d8c60" ></script>
+    #<script src="https://myhkw.cn/api/player/1615338173110" id="myhk" key="1615338173110" m="1"></script>
     # - <script src="xxxx"></script>
 
 # CDN
