@@ -65,7 +65,7 @@ usage:ffplay [options] input_file
 
 `ffmpeg -i testVideo.flv output.mp4`
 
-![image-20220126002409581](https://cdn.jsdelivr.net/gh/huang-github996/picture-blog/blog/image-20220126002409581.png)
+![image-20220126002409581](https://hhl-pic.oss-cn-hangzhou.aliyuncs.com/myblog-pic/image-20220126002409581.png)
 
 ### 分解复用：
 
@@ -178,7 +178,7 @@ ffmpeg -i http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8 -c copy output.m3u8
 
 处理流程：
 
-![image-20220126012610218](https://cdn.jsdelivr.net/gh/huang-github996/picture-blog/blog/image-20220126012610218.png)
+![image-20220126012610218](https://hhl-pic.oss-cn-hangzhou.aliyuncs.com/myblog-pic/image-20220126012610218.png)
 
 ```shell
 ffmpeg -i in.mp3 -filter_complex atempo=0.5 out.mp3

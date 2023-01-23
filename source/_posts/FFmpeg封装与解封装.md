@@ -29,21 +29,21 @@ int main(int argc, char **argv) {
 
 
 
-![aac简介](https://cdn.jsdelivr.net/gh/huang-github996/picture-blog/blog/aac%E7%AE%80%E4%BB%8B.png)
+![aac简介](https://hhl-pic.oss-cn-hangzhou.aliyuncs.com/myblog-pic/aac%E7%AE%80%E4%BB%8B.png)
 
 
 
-![提取aac数据流程](https://cdn.jsdelivr.net/gh/huang-github996/picture-blog/blog/%E6%8F%90%E5%8F%96aac%E6%95%B0%E6%8D%AE%E6%B5%81%E7%A8%8B.png)
+![提取aac数据流程](https://hhl-pic.oss-cn-hangzhou.aliyuncs.com/myblog-pic/%E6%8F%90%E5%8F%96aac%E6%95%B0%E6%8D%AE%E6%B5%81%E7%A8%8B.png)
 
 
 
-![aac音频格式分析](https://cdn.jsdelivr.net/gh/huang-github996/picture-blog/blog/ADTS%E8%AF%A6%E8%A7%A3.png)
+![aac音频格式分析](https://hhl-pic.oss-cn-hangzhou.aliyuncs.com/myblog-pic/aac%E9%9F%B3%E9%A2%91%E6%A0%BC%E5%BC%8F%E5%88%86%E6%9E%90.png)
 
-![ADTS详解2](https://cdn.jsdelivr.net/gh/huang-github996/picture-blog/blog/ADTS%E8%AF%A6%E8%A7%A32.png)
+![ADTS详解](https://hhl-pic.oss-cn-hangzhou.aliyuncs.com/myblog-pic/ADTS%E8%AF%A6%E8%A7%A3.png)
 
-![ADTS详解3](https://cdn.jsdelivr.net/gh/huang-github996/picture-blog/blog/ADTS%E8%AF%A6%E8%A7%A33.png)
+![ADTS详解2](https://hhl-pic.oss-cn-hangzhou.aliyuncs.com/myblog-pic/ADTS%E8%AF%A6%E8%A7%A32.png)
 
-
+![ADTS详解3](https://hhl-pic.oss-cn-hangzhou.aliyuncs.com/myblog-pic/ADTS%E8%AF%A6%E8%A7%A33.png)
 
 ```c
 #include  "libavutil/avutil.h"
@@ -194,7 +194,7 @@ int main(int argc, char **argv) {
 
 ## h264
 
-![h264简介](https://cdn.jsdelivr.net/gh/huang-github996/picture-blog/blog/h264%E7%AE%80%E4%BB%8B.png)
+![h264简介](https://hhl-pic.oss-cn-hangzhou.aliyuncs.com/myblog-pic/h264%E7%AE%80%E4%BB%8B.png)
 
 ![h264封装格式介绍](https://hhl-pic.oss-cn-hangzhou.aliyuncs.com/myblog-pic/h264%E5%B0%81%E8%A3%85%E6%A0%BC%E5%BC%8F%E4%BB%8B%E7%BB%8D.png)
 
